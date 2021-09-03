@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "base85",
+        "repositoryURL": "https://github.com/batonPiotr/base85",
+        "state": {
+          "branch": null,
+          "revision": "da02ff72944e049895bd09922158cfd89206bf5d",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "JavaScriptEval",
+        "repositoryURL": "https://github.com/BrandonPlank/JavaScriptEval",
+        "state": {
+          "branch": "main",
+          "revision": "76977e40bcbb06827f9abfc96b409f1d4bb38e8f",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
